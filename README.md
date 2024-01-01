@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=D7E5F1&height=150&section=header&text=HSO%20GITHUB&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
 
 🖥 <b>TECH STACK</b> 🖥
+<hr/>
 
 <b>Main</b>
-<hr/>
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -14,7 +14,6 @@
 
 
 <b>ETC</b>
-<hr/>
 
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
