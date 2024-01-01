@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=D7E5F1&height=150&section=header&text=HSO%20GITHUB&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sosohy)](https://github.com/anuraghazra/github-readme-stats)
-
 🖥 TECH STACK 🖥
 
 Main
