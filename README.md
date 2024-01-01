@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text="Hso_Github!.!"&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text="HSO GITHUB"&fontSize=90" />
