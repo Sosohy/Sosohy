@@ -3,9 +3,14 @@
 🖥 TECH STACK 🖥
 
 Main
-<img src="https://img.shields.io/badge/-바탕색?style=flat&logo=로고이름&logoColor=white"/>
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 
 🔗 Links 🔗
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hso07202)](https://velog.io/@hso07202/posts)
