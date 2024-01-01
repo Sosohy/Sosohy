@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=D7E5F1&height=150&section=header&text=HELLO%20I'M%20SoHye&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=D7E5F1&height=150&section=header&text=I'M%20SoHye&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
 
 🖥 <b>TECH STACK</b> 🖥
 <hr/>
