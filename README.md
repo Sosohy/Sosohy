@@ -26,9 +26,6 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sosohy&theme=iceberg)](https://git.io/streak-stats)
-
-
 <br>
 🔗 <b>Links</b> 🔗
 <hr/>
