@@ -5,3 +5,7 @@
 Main
 <img src="https://img.shields.io/badge/-바탕색?style=flat&logo=로고이름&logoColor=white"/>
 
+
+
+🔗 Links 🔗
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hso07202)](https://velog.io/@hso07202/posts)
