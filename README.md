@@ -26,7 +26,7 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
 
-
+<br>
 🔗 <b>Links</b> 🔗
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hso07202)](https://velog.io/@hso07202/posts)
