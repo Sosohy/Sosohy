@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=D7E5F1&height=150&section=header&text=I'M%20SOHYE&fontColor=FFFFFF&fontSize=50&animation=twinkling" />
 
-🖥 <b>TECH STACK</b> 🖥
+🖥 <b>TECH STACK</b>
 <hr/>
 
 <b>Main</b>
@@ -25,9 +25,16 @@
 ![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 
+<br>
+✔️ <b>Github Stats</b>
+<hr/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sosohy&show_icons=true&theme=solarized-light)
 
 <br>
-🔗 <b>Links</b> 🔗
+
+<br>
+🔗 <b>Links</b>
 <hr/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hso07202)](https://velog.io/@hso07202/posts)
