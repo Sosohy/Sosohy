@@ -44,4 +44,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hso07202)](https://velog.io/@hso07202/posts)
+<a href="https://velog.io/@hso07202">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
